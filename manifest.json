@@ -1,4 +1,5 @@
 {
   "main.js": "render-page.js",
-  "main.js.map": "render-page.js.map"
+  "main.js.map": "render-page.js.map",
+  "static/favicon.ico": "static/favicon-984c4cc651a1b83a731d1a83ad96c1d5.ico"
 }
