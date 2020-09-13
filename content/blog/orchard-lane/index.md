@@ -7,6 +7,12 @@ description: Show-stopping charred wood home with a simplistic landscape.
 
 <div class="kg-card kg-image-card kg-width-wide">
 
+![Planters](./orchard1.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-wide">
+
 ![Planters](./orchard2.jpg)
 
 </div>

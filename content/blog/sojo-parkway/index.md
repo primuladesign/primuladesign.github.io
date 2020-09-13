@@ -7,6 +7,12 @@ description: Dreamy suburban landscape with space to play, entertain, and relax.
 
 <div class="kg-card kg-image-card kg-width-wide">
 
+![Cement pavers](./sojo1.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-wide">
+
 ![Cement pavers](./sojo2.jpg)
 
 </div>

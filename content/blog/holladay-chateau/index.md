@@ -7,6 +7,12 @@ description: Fairytale home with a landscape to match.
 
 <div class="kg-card kg-image-card kg-width-wide">
 
+![Main Landscape View](./holladay-1.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-wide">
+
 ![Main Landscape View](./holladay-2.jpg)
 
 </div>

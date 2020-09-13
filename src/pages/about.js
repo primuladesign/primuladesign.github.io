@@ -11,7 +11,6 @@ import "../utils/css/screen.css"
 const AboutPage = ({ data }, location) => {
   const siteTitle = data.site.siteMetadata.title
 
-  console.log(data.benchAccounting.childImageSharp.fluid)
   return (
     <Layout title={siteTitle}>
       <SEO title="About" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />

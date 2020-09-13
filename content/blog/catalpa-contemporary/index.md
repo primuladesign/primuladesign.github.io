@@ -7,6 +7,12 @@ description: Millcreek backyard built to entertain with modern bones and rustic 
 
 <div class="kg-card kg-image-card kg-width-wide">
 
+![Main Landscape View](./window.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-wide">
+
 ![Main Landscape View](./home-design.jpg)
 
 </div>

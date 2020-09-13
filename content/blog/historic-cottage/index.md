@@ -7,6 +7,12 @@ description: Small-scale cottage garden in the Avenues of Salt Lake City.
 
 <div class="kg-card kg-image-card kg-width-wide">
 
+![Front yard](./cottage-1.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-wide">
+
 ![Front yard](./cottage-2.jpg)
 
 </div>

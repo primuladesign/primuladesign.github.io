@@ -7,6 +7,12 @@ description:
 
 <div class="kg-card kg-image-card kg-width-wide">
 
+![](./planter.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-wide">
+
 ![](./planters2.jpg)
 
 </div>
