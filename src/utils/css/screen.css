@@ -532,6 +532,7 @@ body {
 }
 
 .post-content-title {
+  font-size: 4rem;
   margin: 0 0 3vw;
   color: var(--color-base);
   text-align: center;
@@ -544,6 +545,11 @@ body {
   color: var(--color-base);
   text-align: center;
   opacity: 0.5;
+}
+@media (max-width: 850px) {
+  .post-content-title {
+    font-size: 2.5rem;
+  }
 }
 @media (max-width: 500px) {
   .post-content-excerpt {
@@ -731,4 +737,20 @@ body {
 .page-template .post-content-body h2,
 .page-template .post-content-body h3 {
   text-align: center;
+}
+
+.profile-picture {
+  margin-right: 20px;
+  float: left;
+  width: 220px;
+}
+
+@media (max-width: 500px) {
+  .profile-picture {
+    margin-right: initial;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    float: none;
+    width: 220px;
+  }
 }

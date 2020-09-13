@@ -39,6 +39,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.5.1",
+    "gh-pages": "^3.1.0",
     "husky": "^2.2.0",
     "postcss-color-function": "^4.1.0",
     "postcss-custom-properties": "^8.0.10",
@@ -47,13 +48,7 @@
     "pretty-quick": "^1.10.0"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
-  "keywords": [
-    "gatsby",
-    "ghost",
-    "gallery",
-    "blog",
-    "starter"
-  ],
+  "keywords": ["gatsby", "ghost", "gallery", "blog", "starter"],
   "license": "MIT",
   "main": "n/a",
   "repository": {
@@ -63,6 +58,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b master",
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",

@@ -1,8 +1,8 @@
 module.exports = {
-  name: "Primula",
+  name: "Primula Horticulture and Design",
   shortName: "Primula",
-  description: "Description about the company here",
-  url: "https://gatsby-london.netlify.com", // Domain of your site without prefix!
+  description: "Primula landscape design company",
+  url: "https://primuladesign.github.io", // Domain of your site without prefix!
   prefix: "/",
   author: "Denver Smith",
   twitter: "@denvaaar",

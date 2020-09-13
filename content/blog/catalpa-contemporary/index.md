@@ -1,86 +1,72 @@
 ---
 title: Catalpa Contemporary
-date: "2019-05-08"
+date: 2020-01-01
 thumbnail: ./window.jpg
-description: Backyard built to entertain with modern bones and some rustic features.
+description: Millcreek backyard built to entertain with modern bones and rustic accents.
 ---
 
-<div class="kg-card kg-image-card kg-width-full">
+<div class="kg-card kg-image-card kg-width-wide">
 
 ![Main Landscape View](./home-design.jpg)
 
 </div>
 
-Main landscape view from the residence. Painted brick walls, stone slab steps, and copper spillways.
-
-<div class="kg-card kg-image-card kg-width-full">
+<div class="kg-card kg-image-card kg-width-wide">
 
 ![Copper Spillway](./spillway.jpg)
 
 </div>
 
-Copper spillway in painted brick.
-
-<div class="kg-card kg-image-card kg-width-full">
+<div class="kg-card kg-image-card kg-width-wide">
 
 ![Butterfly bush](./butterfly-bush.jpg)
 
 </div>
 
-Butterfly bush and liriope.
-
-<div class="kg-card kg-image-card kg-width-full">
+<div class="kg-card kg-image-card kg-width-wide">
 
 ![Garden View](./garden-view.jpg)
 
 </div>
 
-Garden view from the kitchen of the residence.
-
-<div class="kg-card kg-image-card kg-width-full">
+<div class="kg-card kg-image-card kg-width-wide">
 
 ![Window](./window.jpg)
 
 </div>
 
-Landscape window designed to uniquely display the mature catalpa tree. Planted below the catalpa are hostas, hydrangeas, and liriope that will fill in the bottom portion of the window at their maturity.
-
-<div class="kg-card kg-image-card kg-width-full">
+<div class="kg-card kg-image-card kg-width-wide">
 
 ![Structure](./structure.jpg)
 
 </div>
 
-Simplistic overhead structure.
-
-<div class="kg-card kg-image-card kg-width-full">
+<div class="kg-card kg-image-card kg-width-wide">
 
 ![Sitting area](./sitting-area.jpg)
 
 </div>
 
-Small sitting area that will feel secluded as vegetation grows in.
-
-<div class="kg-card kg-image-card kg-width-full">
+<div class="kg-card kg-image-card kg-width-wide">
 
 ![Grass](./grass.jpg)
 
 </div>
 
-Swedish Columnar Aspen with Blonde Ambition Grama Grass.
-
-<div class="kg-card kg-image-card kg-width-full">
+<div class="kg-card kg-image-card kg-width-wide">
 
 ![Structure](./structure-2.jpg)
 
 </div>
 
-Simplistic overhead structure.
-
-<div class="kg-card kg-image-card kg-width-full">
+<div class="kg-card kg-image-card kg-width-wide">
 
 ![Pergola](./pergola.jpg)
 
 </div>
 
-Simplistic pergola that transitions into a walkway covered with matching overhead structure.
+<div style="text-align: center">
+Designed by Primula Horticulture & Design
+<br/>
+Installed by T’s Landscaping
+</div>

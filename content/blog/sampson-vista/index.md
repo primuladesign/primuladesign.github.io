@@ -1,14 +1,47 @@
 ---
 title: Sampson Vista
-date: "2019-01-01"
+date: 2020-01-05
 thumbnail: ./helen-von-stein.jpg
-description: ---
+description: Custom and prefab planter design in the mountains of Park City.
 ---
 
-<div class="kg-card kg-image-card kg-width-full">
+<div class="kg-card kg-image-card kg-width-wide">
 
-![Lambs Ear](./helen-von-stein.jpg)
+![Planter of Mugo Pine](./vista2.jpg)
 
 </div>
 
-Planter filled with Helen Von Stein Lamb's Ear AKA Stachys byzantina 'Helen von Stein'.
+<div class="kg-card kg-image-card kg-width-wide">
+
+![Planter of Creeping Jenny](./vista3.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-wide">
+
+![Planter with Allium](./vista4.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-wide">
+
+![Herb garden](./vista5.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-wide">
+
+![Russian sage plant](./vista6.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-wide">
+
+![3D images of custom planters](./vista7.jpg)
+
+</div>
+<div style="text-align:center">
+Designed by Primula Horticulture & Design
+<br/>
+in collaboration with CITYHOMECOLLECTIVE
+</div>
