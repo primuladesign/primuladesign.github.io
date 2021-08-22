@@ -1,48 +1,48 @@
 ---
 title: Waterwise Curb Appeal
 date: 2019-11-23
-thumbnail: ./waterwise1.jpg
+thumbnail: ./water1.jpg
 description: Low water, low maintenance, and high interest front yard.
 ---
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-![Landscape view](./waterwise1.jpg)
+![Landscape view](./water1.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-![Landscape view](./waterwise2.jpg)
+![Landscape view](./water2.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-![Landscape view](./waterwise3.jpg)
+![Landscape view](./water3.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-![Landscape view](./waterwise4.jpg)
+![Landscape view](./water4.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-![Landscape view](./waterwise5.jpg)
+![Landscape view](./water5.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-![Landscape view](./waterwise6.jpg)
+![Landscape view](./water6.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-![Landscape view](./waterwise7.jpg)
+![Landscape view](./water7.jpg)
 
 </div>

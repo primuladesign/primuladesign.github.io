@@ -7,31 +7,7 @@ description: Modernized backyard in the historic Avenues neighborhood.
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-![Landscape view](./backyard1.jpg)
-
-</div>
-
-<div class="kg-card kg-image-card kg-width-wide">
-
-![Landscape view](./backyard2.jpg)
-
-</div>
-
-<div class="kg-card kg-image-card kg-width-wide">
-
-![Landscape view](./backyard3.jpg)
-
-</div>
-
-<div class="kg-card kg-image-card kg-width-wide">
-
-![Landscape view](./backyard4.jpg)
-
-</div>
-
-<div class="kg-card kg-image-card kg-width-wide">
-
-![Landscape view](./backyard5.jpg)
+![Landscape view](./backyard7.jpg)
 
 </div>
 
@@ -43,6 +19,30 @@ description: Modernized backyard in the historic Avenues neighborhood.
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-![Landscape view](./backyard7.jpg)
+![Landscape view](./backyard5.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-wide">
+
+![Landscape view](./backyard4.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-wide">
+
+![Landscape view](./backyard3.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-wide">
+
+![Landscape view](./backyard2.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-wide">
+
+![Landscape view](./backyard1.jpg)
 
 </div>

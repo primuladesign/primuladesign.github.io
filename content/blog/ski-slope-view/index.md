@@ -2,7 +2,7 @@
 title: Ski Slope View
 date: 2019-11-10
 thumbnail: ./ski1.jpg
-description: Industrial build on a unique, historical lot that is right next to historical downtown Park City.
+description: Industrial build on a unique historical lot adjacent to all the action of downtown Park City.
 ---
 
 <div class="kg-card kg-image-card kg-width-wide">
