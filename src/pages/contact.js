@@ -47,10 +47,9 @@ const ContactPage = ({ data }, location) => {
             <div className="col-6 col-12-xsmall">
               <label for="phone">Phone number</label>
               <input
-                type="tel"
+                type="text"
                 id="phone"
                 name="phone"
-                pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
                 placeholder="Phone number eg. 801-111-2222"
                 required
               />
