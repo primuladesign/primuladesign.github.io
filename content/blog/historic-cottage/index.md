@@ -1,6 +1,6 @@
 ---
 title: Historic Cottage
-date: 2020-01-06
+date: 2020-01-07
 thumbnail: ./cottage-1.jpg
 description: Small-scale cottage garden in the Avenues of Salt Lake City.
 ---

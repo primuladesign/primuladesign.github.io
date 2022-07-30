@@ -1,6 +1,6 @@
 ---
 title: SoJo Parkway
-date: 2020-01-03
+date: 2020-01-04
 thumbnail: ./sojo1.jpg
 description: Dreamy suburban landscape with space to play, entertain, and relax.
 ---

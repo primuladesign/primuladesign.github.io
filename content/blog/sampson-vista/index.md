@@ -1,6 +1,6 @@
 ---
 title: Sampson Vista
-date: 2020-01-05
+date: 2020-01-06
 thumbnail: ./helen-von-stein.jpg
 description: Custom and prefab planter design in the mountains of Park City.
 ---
