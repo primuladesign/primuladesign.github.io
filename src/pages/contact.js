@@ -21,7 +21,8 @@ const ContactPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h4 style={{ textAlign: "center" }}>
-            We are currently taking new clients for the 2023 season.
+            {/*We are currently taking new clients for the 2023 season.*/}
+            We are booked up for 2023. Check back in January for 2024 inquiries.
           </h4>
           <p style={{ textAlign: "center" }}>
             Want to move forward? Please complete the following form or contact
