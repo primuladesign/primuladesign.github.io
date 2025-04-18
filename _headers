@@ -175,6 +175,26 @@
   Link: </component---src-templates-blog-post-js-ee2f6819511886af0896.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/ski-slope-view/page-data.json>; rel=preload; as=fetch; crossorigin
+/corner-view/
+  Link: </webpack-runtime-8ed803e5c84695081391.js>; rel=preload; as=script
+  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </framework-376edee25eb5f5cd8260.js>; rel=preload; as=script
+  Link: </app-1039a186504c6920228b.js>; rel=preload; as=script
+  Link: </221cde70672610cd3b045311d6607cb76101052c-7f7ce84d1e5b0d9000ee.js>; rel=preload; as=script
+  Link: </58d1f6078df5aed3a1b620cb5503896d9b7e4734-1a2b560207ac5bb7de1a.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-ee2f6819511886af0896.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/corner-view/page-data.json>; rel=preload; as=fetch; crossorigin
+/brick-beauty/
+  Link: </webpack-runtime-8ed803e5c84695081391.js>; rel=preload; as=script
+  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </framework-376edee25eb5f5cd8260.js>; rel=preload; as=script
+  Link: </app-1039a186504c6920228b.js>; rel=preload; as=script
+  Link: </221cde70672610cd3b045311d6607cb76101052c-7f7ce84d1e5b0d9000ee.js>; rel=preload; as=script
+  Link: </58d1f6078df5aed3a1b620cb5503896d9b7e4734-1a2b560207ac5bb7de1a.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-ee2f6819511886af0896.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/brick-beauty/page-data.json>; rel=preload; as=fetch; crossorigin
 /404/
   Link: </webpack-runtime-8ed803e5c84695081391.js>; rel=preload; as=script
   Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
